@@ -11,17 +11,17 @@ global.autoRecord = true //Ubah Ke false Jika Tidak Ingin Saat Ada Yang Chat Bot
 global.prefa = ['','.','/','#']
 
 //===> UBAH DISINI
-global.namaowner = 'RAKA NOVAN' //Ganti Jadi Namamu
-global.owner = ['6288211090997','6288211090997'] //Kalo Mau Lebih Tambahin Aja
-global.nomerowner = '6288211090997' //Owner Utama Istilahnya
-global.namabot = 'Ova Bot' //Ganti Jadi Nama Botmu
-global.packname = 'OVA BOT' //Sticker Weem
-global.author = 'Raka Novan' //Sticker Weem
+global.namaowner = 'DimSam' //Ganti Jadi Namamu
+global.owner = ['447971533162','6288211090997'] //Kalo Mau Lebih Tambahin Aja
+global.nomerowner = '447971533162' //Owner Utama Istilahnya
+global.namabot = 'SH TERATE' //Ganti Jadi Nama Botmu
+global.packname = 'SH TERATE' //Sticker Weem
+global.author = 'DimSam' //Sticker Weem
 global.linkgroup = 'https://chat.whatsapp.com/HE2wLDxyhvcEmGTwncp0FR' //Ganti Sama Link Gc Mu
 global.sessionName = 'session'
 global.youtube = '-' //Ganti Sama Link Yt Mu
-global.github = 'https://github.com/nvannra' //Ganti Sama Link Github Mu
-global.instagram = 'https://instagram.com/rakanovantara.a' //Ganti Sama Link Ig mu
+global.github = 'https://github.com/psht' //Ganti Sama Link Github Mu
+global.instagram = 'https://instagram.com/pshtsurabaya1922' //Ganti Sama Link Ig mu
 
 //===> BACKGROUND SETIAP MENU
 global.bg1 = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
